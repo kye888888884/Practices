@@ -43,7 +43,7 @@ namespace NANE
     }
 
     Print cout;
-};
+}
 //*************************************//
 
 using namespace NAME;
