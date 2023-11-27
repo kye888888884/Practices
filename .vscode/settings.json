@@ -67,6 +67,10 @@
         "string": "cpp",
         "fstream": "cpp",
         "sstream": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "optional": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stack": "cpp"
     }
 }
